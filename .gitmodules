@@ -1,0 +1,3 @@
+[submodule "testtest3"]
+	path = testtest3
+	url = https://github.com/tsakaue/testtest3
